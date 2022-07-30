@@ -1,7 +1,7 @@
 # d
 
   ## Description
-  a
+  d
 
   ## Table of Contents
   1. [Installation](#installation)
@@ -12,22 +12,22 @@
   6. [Contributing](#how-to-contribute)
 
   ## Installation
-  a
+  d
 
   ## Usage
-  a
+  d
   
   
   ## Questions
-  d
-  d
+  
+  
   
   ## License
-  MIT
+  This project uses the [MIT](https://choosealicense.com/licenses/mit)
   
   ## Tests
-  d
+  
 
   ## How to Contribute 
-  d
+  
   

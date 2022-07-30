@@ -4,7 +4,19 @@ function renderLicenseBadge(license) {}
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-function renderLicenseLink(license) {}
+function renderLicenseLink(license) {
+  const baseURL = "https://choosealicense.com/licenses/";
+  switch (license) {
+    case "MIT":
+      return baseURL + "mit";
+    case "ISC":
+      return baseURL + "isc";
+    case "Apache License 2.0":
+      return baseURL + "apache-2.0";
+    case "GNU GPLv3":
+      return baseURL + "gpl-3.0";
+  }
+}
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
@@ -23,6 +35,8 @@ function generateMarkdown(data) {
     email,
     github,
   } = data;
+  const licenseLink = renderLicenseLink(license);
+  const licenseBadge = renderLicenseBadge(license);
   return `# ${title}
 
   ## Description
@@ -48,7 +62,7 @@ function generateMarkdown(data) {
   ${github}
   
   ## License
-  ${license}
+  This project uses the [${license}](${licenseLink}) license.
   
   ## Tests
   ${tests}
