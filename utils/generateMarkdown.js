@@ -55,7 +55,7 @@ function generateMarkdown(data) {
   ${usage}
   
   
-  ## Questions
+  ## Questions?
   Github: [${github}](https://github.com/${github}) </br>
   Email: [${email}](mailto:${email})
   
