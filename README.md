@@ -26,7 +26,7 @@ Run 'node index.js' from the command line, answer the prompts, and see your READ
 ## Questions
 
 Github: [maxbransontaylor](https://github.com/maxbransontaylor) </br>
-Email: [maxbransontaylor@gmail.com(mailto:maxbransontaylor@gmail.com)
+Email: [maxbransontaylor@gmail.com](mailto:maxbransontaylor@gmail.com)
 
 ## License
 

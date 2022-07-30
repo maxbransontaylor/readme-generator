@@ -57,7 +57,7 @@ function generateMarkdown(data) {
   
   ## Questions
   Github: [${github}](https://github.com/${github}) </br>
-  Email: [${email}(mailto:${email})
+  Email: [${email}](mailto:${email})
   
   ## License
   This project uses the [${license}](${licenseLink}) license.
