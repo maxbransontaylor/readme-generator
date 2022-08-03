@@ -1,34 +1,35 @@
-# README Generator
+# test
   ![badge](https://img.shields.io/badge/license-MIT-blue)
 
   ## Description
-  A node.js app that takes in user input to generate a professional README.md file
+  test
 
   ## Table of Contents
-  1. [Installation](#installation)
-  2. [Usage](#usage)
-  3. [Questions](#questions)
-  4. [License](#license)
-  5. [Tests](#tests)
-  6. [Contributing](#how-to-contribute)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Questions](#questions)
+  - [License](#license)
+  - [Tests](#tests)
+  - [Contributing](#how-to-contribute)
 
   ## Installation
-  Clone the repository, navigate to directory in your terminal, run 'npm init' and 'npm install'. Then run 'node index.js'.
+  test
 
   ## Usage
-  Run 'node index.js' from the command line, answer the prompts, and see your README.md file created in the 'dist' folder.
+  test
   
   
-  ## Questions
-  Github: [maxbransontaylor](https://github.com/maxbransontaylor)
-  Email: [maxbransontaylor@gmail.com(mailto:maxbransontaylor@gmail.com)
+  ## Questions?
+  Github: [test](https://github.com/test) </br>
+  Email: [test](mailto:test)
+  
   
   ## License
-  This project uses the [MIT](https://choosealicense.com/licenses/mit) license.
+  This project uses the MIT license.
   
   ## Tests
-  No tests at this time
+  test
 
   ## How to Contribute 
-  Email me!
+  test
   

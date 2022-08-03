@@ -1,6 +1,6 @@
 # README Generator
 
-![badge](https://img.shields.io/badge/license-MIT-blue)
+![badge](https://img.shields.io/badge/license-none-blue)
 
 ## Description
 
@@ -8,12 +8,12 @@ A node.js app that takes in user input to generate a professional README.md file
 
 ## Table of Contents
 
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Questions](#questions)
-4. [License](#license)
-5. [Tests](#tests)
-6. [Contributing](#how-to-contribute)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Questions](#questions)
+- [License](#license)
+- [Tests](#tests)
+- [Contributing](#how-to-contribute)
 
 ## Installation
 
