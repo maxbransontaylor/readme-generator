@@ -21,7 +21,7 @@ Install Node.js. Clone the repository, navigate to directory in your terminal, r
 
 ## Usage
 
-Run 'node index.js' from the command line, answer the prompts, and see your README.md file created in the 'dist' folder.
+Navigate to the directory where you installed the file. Then, follow the procedure in this [video](https://drive.google.com/file/d/1tuYwd8zWooDHNUWnQ-ylp79cfITHm5CY/view)
 
 ## Questions
 

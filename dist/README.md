@@ -1,8 +1,8 @@
-# test
+# Sample
   ![badge](https://img.shields.io/badge/license-MIT-blue)
 
   ## Description
-  test
+  Enter your description here
 
   ## Table of Contents
   - [Installation](#installation)
@@ -13,23 +13,23 @@
   - [Contributing](#how-to-contribute)
 
   ## Installation
-  test
+  Enter installation instructions here
 
   ## Usage
-  test
+  Enter usage instructions here
   
   
   ## Questions?
-  Github: [test](https://github.com/test) </br>
-  Email: [test](mailto:test)
+  Github: [maxbransontaylor](https://github.com/maxbransontaylor) </br>
+  Email: [maxbransontaylor@gmail.com](mailto:maxbransontaylor@gmail.com)
   
   
   ## License
   This project uses the MIT license.
   
   ## Tests
-  test
+  Enter test instructions here
 
   ## How to Contribute 
-  test
+  Email!
   
