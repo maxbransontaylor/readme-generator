@@ -11,13 +11,12 @@ A node.js app that takes in user input to generate a professional README.md file
 - [Installation](#installation)
 - [Usage](#usage)
 - [Questions](#questions)
-- [License](#license)
 - [Tests](#tests)
 - [Contributing](#how-to-contribute)
 
 ## Installation
 
-Install Node.js. Clone the repository, navigate to directory in your terminal, run 'npm init' and 'npm install'. Then run 'node index.js'.
+Install Node.js. Clone the repository, navigate to directory in your terminal, run 'npm i'.
 
 ## Usage
 
@@ -27,10 +26,6 @@ Navigate to the directory where you installed the file. Then, follow the procedu
 
 Github: [maxbransontaylor](https://github.com/maxbransontaylor) </br>
 Email: [maxbransontaylor@gmail.com](mailto:maxbransontaylor@gmail.com)
-
-## License
-
-This project uses the [MIT](https://choosealicense.com/licenses/mit) license.
 
 ## Tests
 
